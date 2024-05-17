@@ -1,4 +1,3 @@
-Almost out of storage … Your Google One storage subscription was canceled because your payment method failed
 name: Cl
 
 on: [push, workflow_dispatch]
